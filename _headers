@@ -1,4 +1,5 @@
 /*
+  X-XSS-Protection: 1; mode=block
   X-Frame-Options: DENY
   X-Content-Type-Options: nosniff
   Referrer-Policy: no-referrer
