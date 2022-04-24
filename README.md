@@ -1,6 +1,8 @@
 # mxrs.dev
 
-This project hosts the source code of my personal website.
+[![Mozilla Observatory](https://img.shields.io/mozilla-observatory/grade-score/mxrs.dev?publish)](https://observatory.mozilla.org/analyze/mxrs.dev)
+
+This project hosts the source code of my personal website, which is deployed to [Cloudflare Pages](https://pages.cloudflare.com/) and whose URL is https://mxrs.dev.
 
 ## Authors and acknowledgment
 
