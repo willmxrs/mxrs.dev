@@ -4,4 +4,4 @@
   X-Content-Type-Options: nosniff
   Referrer-Policy: no-referrer
   Permissions-Policy: document-domain=()
-  Content-Security-Policy: default-src 'none'; img-src 'self'; script-src 'none'; frame-ancestors 'none'; form-action 'none'; object-src 'none'; base-uri 'none'; require-trusted-types-for 'script';
+  Content-Security-Policy: default-src 'none'; img-src 'self'; script-src 'https://static.cloudflareinsights.com'; frame-ancestors 'none'; form-action 'none'; object-src 'none'; base-uri 'none'; require-trusted-types-for 'script';
