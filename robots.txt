@@ -6,3 +6,5 @@ Disallow: /
 
 User-agent: AdsBot-Google
 Disallow: /
+
+Sitemap: https://mxrs.dev/sitemap.txt
